@@ -1,0 +1,10 @@
+D:\work\repos\9tema2\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\work\repos\9tema2\DataAccess\bin\Debug\DataAccess.dll
+D:\work\repos\9tema2\DataAccess\bin\Debug\DataAccess.pdb
+D:\work\repos\9tema2\DataAccess\bin\Debug\Entities.dll
+D:\work\repos\9tema2\DataAccess\bin\Debug\Entities.pdb
+D:\work\repos\9tema2\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\work\repos\9tema2\DataAccess\obj\Debug\DataAccess.dll
+D:\work\repos\9tema2\DataAccess\obj\Debug\DataAccess.pdb
+D:\work\repos\9tema2\DataAccess\bin\Debug\DataAccess.dll.CodeAnalysisLog.xml
+D:\work\repos\9tema2\DataAccess\bin\Debug\DataAccess.dll.lastcodeanalysissucceeded

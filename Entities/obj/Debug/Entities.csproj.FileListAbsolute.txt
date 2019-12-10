@@ -1,0 +1,6 @@
+D:\work\repos\9tema2\Entities\bin\Debug\Entities.dll
+D:\work\repos\9tema2\Entities\bin\Debug\Entities.pdb
+D:\work\repos\9tema2\Entities\obj\Debug\Entities.dll
+D:\work\repos\9tema2\Entities\obj\Debug\Entities.pdb
+D:\work\repos\9tema2\Entities\bin\Debug\Entities.dll.CodeAnalysisLog.xml
+D:\work\repos\9tema2\Entities\bin\Debug\Entities.dll.lastcodeanalysissucceeded

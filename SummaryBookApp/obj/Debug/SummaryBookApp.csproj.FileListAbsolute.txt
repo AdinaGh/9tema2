@@ -1,0 +1,17 @@
+D:\work\repos\9tema2\SummaryBookApp\obj\Debug\SummaryBookApp.csprojAssemblyReference.cache
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\SummaryBookApp.exe.config
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\SummaryBookApp.exe
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\SummaryBookApp.pdb
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\DataAccess.Connection.dll
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\DataAccess.dll
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\Entities.dll
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\DataAccess.Connection.pdb
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\DataAccess.pdb
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\Entities.pdb
+D:\work\repos\9tema2\SummaryBookApp\obj\Debug\SummaryBookApp.csproj.CopyComplete
+D:\work\repos\9tema2\SummaryBookApp\obj\Debug\SummaryBookApp.exe
+D:\work\repos\9tema2\SummaryBookApp\obj\Debug\SummaryBookApp.pdb
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\Newtonsoft.Json.dll
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\Newtonsoft.Json.xml
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\SummaryBookApp.exe.CodeAnalysisLog.xml
+D:\work\repos\9tema2\SummaryBookApp\bin\Debug\SummaryBookApp.exe.lastcodeanalysissucceeded

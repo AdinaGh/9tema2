@@ -1,0 +1,15 @@
+D:\work\repos\9tema2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csprojAssemblyReference.cache
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.config
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.pdb
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\DataAccess.Connection.dll
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\DataAccess.dll
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\Entities.dll
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\DataAccess.Connection.pdb
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\DataAccess.pdb
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\Entities.pdb
+D:\work\repos\9tema2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csproj.CopyComplete
+D:\work\repos\9tema2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.exe
+D:\work\repos\9tema2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.pdb
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.CodeAnalysisLog.xml
+D:\work\repos\9tema2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.lastcodeanalysissucceeded

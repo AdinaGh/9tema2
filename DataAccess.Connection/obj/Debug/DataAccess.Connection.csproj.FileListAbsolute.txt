@@ -1,0 +1,6 @@
+D:\work\repos\9tema2\DataAccess.Connection\bin\Debug\DataAccess.Connection.dll
+D:\work\repos\9tema2\DataAccess.Connection\bin\Debug\DataAccess.Connection.pdb
+D:\work\repos\9tema2\DataAccess.Connection\obj\Debug\DataAccess.Connection.dll
+D:\work\repos\9tema2\DataAccess.Connection\obj\Debug\DataAccess.Connection.pdb
+D:\work\repos\9tema2\DataAccess.Connection\bin\Debug\DataAccess.Connection.dll.CodeAnalysisLog.xml
+D:\work\repos\9tema2\DataAccess.Connection\bin\Debug\DataAccess.Connection.dll.lastcodeanalysissucceeded
